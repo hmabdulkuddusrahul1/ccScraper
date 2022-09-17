@@ -91,7 +91,7 @@ CC: {check_card_bog_network["cc"]}
 
 def main():
 
-	tk = '5634632520:AAFIaqCqfYvt-o46fJ09FytuY8rn-Za2MW0'
+	tk = '5692284470:AAE6kbjOzmRD74O90BsAM3ghevowNdvPswk'
 	
 	updater = Updater(tk, use_context=True)
 	dp = updater.dispatcher
